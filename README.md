@@ -1,9 +1,9 @@
 In this project, I utilize Python to scrape film data from the popular user site IMDB for visualization and analysis. Annotations included with the code.
 
-**Modules Used:**
+Modules Used:
 - Pymongo, json, certifi, pandas, matplotlib, numpy, re, urllib3, requests and seaborn.
 
-**Skills Demonstrated:**
+Skills Demonstrated:
 - Loading a json file from a MongoDB connection
 - Retrieving contents using regular expressions
 - Converting information into a Pandas dataframe and printing
