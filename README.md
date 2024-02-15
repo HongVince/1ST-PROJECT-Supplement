@@ -1,4 +1,4 @@
-In this project, I utilize Python to scrape film data from the popular user site IMDB for visualization and analysis. Annotations included with the code.
+In this project, I utilize Python to scrape film data from the popular user site IMDB for visualization and analysis.
 
 Modules Used:
 - Pymongo, json, certifi, pandas, matplotlib, numpy, re, urllib3, requests and seaborn.
